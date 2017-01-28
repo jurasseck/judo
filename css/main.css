@@ -18,3 +18,10 @@ body {
     /*background-color: red;*/
     bottom: 20vh;
 }
+
+#rodape {
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+}
